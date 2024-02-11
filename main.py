@@ -1,3 +1,6 @@
 prompt = "Enter a todo: "
-user_text = input(prompt)
-print(user_text)
+todo1 = input(prompt)
+todo2 = input(prompt)
+todo3 = input(prompt)
+
+todos = []
