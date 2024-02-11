@@ -1,1 +1,1 @@
-print("Enter a todo: ")
+print(input("Enter a todo: "))
