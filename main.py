@@ -1,2 +1,3 @@
-user_text = input("Enter a todo: ")
+prompt = "Enter a todo: "
+user_text = input(prompt)
 print(user_text)
